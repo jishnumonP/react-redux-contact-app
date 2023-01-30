@@ -50,7 +50,8 @@ toast.success(" Contact Deleted successfully!!")
        
         
       </tbody>
-    </Table></Col>
+    </Table>
+    </Col>
       <Col sm={6}>  <Button variant="dark" onClick={()=>navigate('/add')} >Add Contact</Button></Col>
     
     </Row>

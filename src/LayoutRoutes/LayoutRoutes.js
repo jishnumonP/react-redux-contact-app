@@ -11,7 +11,7 @@ const LayoutRoutes = () => {
         
        <NavBar/>  
         <Routes>
-<Route path='/' element={<Home/>} />
+<Route path='/react-redux-contact-app' element={<Home/>} />
 <Route path='/add' element={<AddContact/>} />
 <Route path='/edit/:id'  element={<EditContact/>} />
 

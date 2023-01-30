@@ -9,7 +9,7 @@ const NavBar = () => {
   return (
 <Navbar bg="dark" expand="lg">
       <Container>
-      <Link to='/' style={{textDecoration: 'none'}}>
+      <Link to='/react-redux-contact-app' style={{textDecoration: 'none'}}>
      <Navbar.Brand  style={{color:'#fff'}}>React Contact APP</Navbar.Brand>  </Link> 
         
       </Container>
